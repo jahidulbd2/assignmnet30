@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.hero{
+    background-image: url(./images/Home\ page.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
